@@ -37,5 +37,10 @@ Achieved approximately 98% test accuracy.
 ## Output
 The model successfully predicts handwritten digits from uploaded images.
 
+### Sample Input and Prediction (Static)
+![Handwritten Digit Input](Screenshorts/hand_written_digit_ip.png)
+
+Predicted digit: 6
+
 ## Author
 Gangaprasad Urekar
